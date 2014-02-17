@@ -1,4 +1,10 @@
 # SkypeMessageParser
-==================
 
-parse skype messenger db, and create tsv.
+## What 
+
+for parsing skype messenger-db.
+
+## Why
+
+
+
